@@ -9,7 +9,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 # 🔧 SET TESSERACT PATH
-pytesseract.pytesseract.tesseract_cmd = r"C:\Users\anjan\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Local\Programs\Tesseract-OCR\tesseract.exe"
 
 st.set_page_config(page_title="Smart Lead Capture", layout="centered")
 
